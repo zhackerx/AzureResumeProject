@@ -1,7 +1,7 @@
 # AzureResumeProject
 
 My Resume Project
-
+- Azure Hosted Resume Url: https://getresumevisitcounter.z13.web.core.windows.net/
 # FrontEnd
 
 - It contains the Website
