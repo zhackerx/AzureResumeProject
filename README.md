@@ -1,7 +1,7 @@
 # AzureResumeProject
 
 My Resume Project
-- Azure Hosted Resume Url: https://shubhikaresume.azureedge.net/
+- Azure Hosted Resume Url: https://ShubhikaGupta.azureedge.net
 # FrontEnd
 
 - It contains the Website
